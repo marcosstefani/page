@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <title>Marcos Rosa</title>
+        <link href="{{ url_for('static', filename='dist/bootstrap-4.1.1-dist/css/bootstrap.min.css') }}" rel="stylesheet"/>
+        <link href="{{ url_for('static', filename='dist/fontawesome-5.0.13/css/fontawesome-all.min.css') }}" rel="stylesheet">
+        <link href="{{ url_for('static', filename='css/style.css') }}" rel="stylesheet"/>
+        <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    </head>
+    <body>
+        {{ body|safe }}
+        <script src="{{url_for('static',filename='dist/bootstrap-4.1.1-dist/js/bootstrap.js')}}"></script>
+    </body>
+</html>

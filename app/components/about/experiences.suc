@@ -1,0 +1,23 @@
+div(class="card border-0")
+    div(class="card-body")
+        h5(class="card-title") Outstanding Experiences
+        hr
+        ul(class="list-unstyled")
+            li(class="media")
+                img(class="align-self-center mr-3 w-25" src="https://i.imgsafe.org/d8/d8255d5d42.png" alt="Generic placeholder image")
+                div(class="media-body")
+                    h5(class="mt-0 mb-1") Wine e-Commerce
+                    a(href="https://www.wine.com.br" target="_blank") www.wine.com.br
+                    h6 Development frontend in Vue.js, Bootstrap, Pug, Sass and CSS. Backend in Java 8 with Spring Boot, JPA, Hibernate, RestAPI and RestFull. Messageria control with ActiveMQ. Development in ORACLE database using PLSQL. Small applications to maintain integrations and internal control systems using Ruby, Python, Elastic Search and PHP.
+            li(class="media my-4")
+                img(class="align-self-center mr-3 w-25" src="https://i.imgsafe.org/d8/d8254c71b1.png" alt="Generic placeholder image")
+                div(class="media-body")
+                    h5(class="mt-0 mb-1") Automotive Glass Service
+                    a(href="https://www.autoglass.com.br" target="_blank") www.autoglass.com.br
+                    h6 Leader of the application development team for the commercial sector of the company. Application of agile methods in the team development routine, management of several software projects, process management and continuous improvement application &#40;LEAN&#41; together with the product owners. Large scale development in PLSQL in the database ORACLE, Delphi, PHP, Javascript, Bootstrap and CSS.
+            li(class="media")
+                img(class="align-self-center mr-3 w-25" src="https://i.imgsafe.org/d8/d825632162.jpeg" alt="Generic placeholder image")
+                div(class="media-body")
+                    h5(class="mt-0 mb-1") Development of Business Solutions
+                    a(href="https://www.totvs.com" target="_blank") www.totvs.com
+                    h6 Development consultant for many years working with ERP implementation in the companies acting directly in the development of the system adapting it to the customer's business need. He trained in several Brazilian cities and led a software development team focused on the management of health plans.

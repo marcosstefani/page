@@ -1,0 +1,9 @@
+nav(class="navbar navbar-light bg-light navbar-expand")
+    div(class="navbar-nav-scroll" id="navbarNav")
+        ul(class="navbar-nav bd-navbar-nav")
+            li(class="nav-item")
+                a(href="#home" class="nav-link") Home
+            li(class="nav-item")
+                a(href="#skills" class="nav-link") Skills
+            li(class="nav-item")
+                a(href="#about" class="nav-link") About

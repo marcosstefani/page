@@ -1,0 +1,24 @@
+include app/components/navbar
+include app/components/home/banner
+include app/components/skills/languages
+include app/components/skills/other_skills
+include app/components/about/experiences
+include app/components/about/project
+
+section(id="home")
+    +navbar
+    +banner
+section(id="skills")
+    div(class="col-lg-12 col-md-12 py-3")
+        div(class="row")
+            div(class="col-lg-6 col-md-6")
+                +languages
+            div(class="col-lg-6 col-md-6")
+                +other_skills
+section(id="about")
+    div(class="col-lg-12 col-md-12 py-3")
+        div(class="row")
+            div(class="col-lg-6 col-md-6")
+                +project
+            div(class="col-lg-6 col-md-6")
+                +experiences

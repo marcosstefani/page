@@ -1,0 +1,24 @@
+div(class="card border-0")
+    div(class="card-body")
+        h5(class="card-title") Languages / Frameworks
+        ul(class="list-group list-group-flush")
+            li(class="list-group-item")
+                i(class="d-inline-flex fab fa-java")
+                    h6(class="pl-2") Java with Spring Boot
+                div(class="progress")
+                    div(class="progress-bar bg-danger text-right pr-2 w-85" role="progressbar" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100")
+            li(class="list-group-item")
+                i(class="d-inline-flex fab fa-python")
+                    h6(class="pl-2") Python with Flask
+                div(class="progress")
+                    div(class="progress-bar bg-info text-right pr-2 w-75" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100")
+            li(class="list-group-item")
+                i(class="d-inline-flex fab fa-js")
+                    h6(class="pl-2") JavaScript and HTML
+                div(class="progress")
+                    div(class="progress-bar bg-warning text-right pr-2 w-70" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100")
+            li(class="list-group-item")
+                i(class="d-inline-flex fas fa-database")
+                    h6(class="pl-2") PLSQL / SQL
+                div(class="progress")
+                    div(class="progress-bar bg-primary text-right pr-2 w-90" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100")

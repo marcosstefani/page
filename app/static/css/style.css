@@ -1,0 +1,78 @@
+body, i > h6 {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.context-banner {
+    text-align: left;
+    padding-top: 3rem!important;
+}
+
+.btn-social {
+    padding: 0;
+    text-decoration: none;
+    width: 2em;
+}
+
+.btn-social > i::before {
+    display: inline-block;
+    transform: scale(2)
+}
+
+.btn-social.btn:focus {
+    box-shadow: none;
+}
+
+.btn-github {
+    color: black;
+}
+
+.btn-github:hover {
+    color: black;
+}
+
+.btn-linkedin {
+    color: #1777b5;
+}
+
+.btn-linkedin:hover {
+    color: #1777b5;
+}
+
+.btn-facebook {
+    color: #4266B3;
+}
+
+.btn-facebook:hover {
+    color: #4266B3;
+}
+
+.progress-bar {
+    display: block;
+}
+
+@media (max-width: 600px) {
+    .context-banner {
+        text-align: center;
+    }
+
+    div .row div:last-child .card {
+        margin-top: 1rem;
+    }
+}
+
+ /* Sizing */
+.w-85 {
+    width: 85%!important;
+}
+
+.w-70 {
+    width: 70%!important;
+}
+
+.w-90 {
+    width: 90%!important;
+}
+
+.pt-10 {
+    padding-top: 5rem!important;
+}
