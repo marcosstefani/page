@@ -1,6 +1,6 @@
 div(class="card border-0")
     div(class="card-body")
-        h5(class="card-title") Featured Development Project
+        h5(class="card-title") Main OpenSource Created and Developed
         hr
         div(class="jumbotron jumbotron-fluid")
             div(class="container text-center")

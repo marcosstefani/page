@@ -8,13 +8,13 @@ div(class="card border-0")
                 div(class="media-body")
                     h5(class="mt-0 mb-1") Wine e-Commerce
                     a(href="https://www.wine.com.br" target="_blank") www.wine.com.br
-                    h6 Development frontend in Vue.js, Bootstrap, Pug, Sass and CSS. Backend in Java 8 with Spring Boot, JPA, Hibernate, RestAPI and RestFull. Messageria control with ActiveMQ. Development in ORACLE database using PLSQL. Small applications to maintain integrations and internal control systems using Ruby, Python, Elastic Search and PHP.
+                    h6 Developed and maintained Java 8 applications with Spring &#40;Boot REST and RESTful&#41;, being responsible for delivering several integrations between the company's websites, ERP, WMS and queries to Brazilian government APIs such as CTE &#40;e-Ship&#41; and NFE &#40;e-Invoice&#41;. Refactored old legacy code, updating pure JavaScript to Vue.js and Pug.js, transforming the whole front-end development structure to new cutting-edge technologies. Delivered and maintained different applications with Python, Ruby on Rails and PHP, updating web applications used for company’s management and customer service. Led and developed ERP database administration and all the integrations, also working on the development of features on the database itself using PLSQL. Participated in the migration of the entire platform from a local environment to the cloud in AWS, reducing costs related to local server maintenance.
             li(class="media my-4")
                 img(class="align-self-center mr-3 w-25" src="https://i.imgsafe.org/d8/d8254c71b1.png" alt="Generic placeholder image")
                 div(class="media-body")
                     h5(class="mt-0 mb-1") Automotive Glass Service
                     a(href="https://www.autoglass.com.br" target="_blank") www.autoglass.com.br
-                    h6 Leader of the application development team for the commercial sector of the company. Application of agile methods in the team development routine, management of several software projects, process management and continuous improvement application &#40;LEAN&#41; together with the product owners. Large scale development in PLSQL in the database ORACLE, Delphi, PHP, Javascript, Bootstrap and CSS.
+                    h6 Developed the entire automated Sales Call Center structure using Java 6 for the integrations and Delphi for the desktop application, improving the performance regarding the incoming phone calls intelligence and retail communication processes. Created and implemented Rest APIs using Java 6 for warehouse management, controlling strategic information integrated with the Brazilian government, such as invoices and taxes, also complying with specific business rules into the ERP.
             li(class="media")
                 img(class="align-self-center mr-3 w-25" src="https://i.imgsafe.org/d8/d825632162.jpeg" alt="Generic placeholder image")
                 div(class="media-body")

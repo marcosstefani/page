@@ -2,7 +2,7 @@ div(class="container-center")
     div(class="col-lg-12 col-md-12 py-3")
         div(class="row")
             div(class="col-lg-6 col-md-6 text-center")
-                img(src="https://media.licdn.com/dms/image/C5603AQGtmXuVnjrseg/profile-displayphoto-shrink_200_200/0?e=1534982400&v=beta&t=5cePnDnifZB6LExv0jV838fIqS8uKC4fMYC397usG4M" class="rounded-circle mx-auto d-block")
+                img(src="https://i.imgsafe.org/b2/b2d16382f5.jpeg" height="250" width="250" class="rounded-circle mx-auto d-block")
             div(class="col-lg-6 col-md-6 context-banner")
                 h1(class="bd-title pt-3") Marcos Rosa
                 h4 Full Stack Developer
